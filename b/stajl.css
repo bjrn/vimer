@@ -19,7 +19,7 @@ section {
 }
 
 .masthead {
-  background: #441115;
+  background: rgba(0, 0, 0, 0.1);
   color: rgba(0, 0, 0, 0.33);
 }
 
