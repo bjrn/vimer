@@ -1,3 +1,5 @@
 # Redirect domain aliases to primary domain
-https://a.vimer.se/* https://www.vimer.se/a/:splat 200!
-https://b.vimer.se/* https://www.vimer.se/b/:splat 200!
+http://a.vimer.se/* https://www.vimer.se/a/:splat 200
+http://b.vimer.se/* https://www.vimer.se/b/:splat 200
+https://a.vimer.se/* https://www.vimer.se/a/:splat 200
+https://b.vimer.se/* https://www.vimer.se/b/:splat 200
