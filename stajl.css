@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #c40;
+  color: #f80;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  flex: 1;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.masthead {
+  background: #441115;
+  color: rgba(0, 0, 0, 0.33);
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 6rem;
+}

@@ -34,7 +34,8 @@
     }
   }
   var a = new Date().getMonth();
-  if (11 === a) {
+  // if (11 === a) {
+  if (1 === 1) {
     var b = 100,
       c = masthead;
     if (c) {
