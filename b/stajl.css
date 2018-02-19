@@ -27,3 +27,8 @@ h1 {
   font-family: 'Rubik', sans-serif;
   font-size: 6rem;
 }
+
+p {
+  position: relative;
+  z-index: 2;
+}
